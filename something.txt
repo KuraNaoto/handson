@@ -1,0 +1,4 @@
+something.txt
+
+This is a totally meaningless text file
+only for Github Training purpose.
